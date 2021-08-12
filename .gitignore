@@ -1,0 +1,11 @@
+.qsys_edit/
+*.bak
+*.cof
+*.rpt
+*.rbf
+*.summary
+/db/
+/incremental_db/
+/simulation/
+/output_files/
+soc_system.xml
